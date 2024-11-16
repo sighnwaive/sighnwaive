@@ -18,7 +18,7 @@ located_in: Louisiana
 from: United States
 job: Director of Engineering
 company: Gravelight Studios (https://github.com/Gravelight-Studios)
-company: Nightguard Security (https://github.com/Gravelight-Studios)
+company: Nightguard Security (https://github.com/Nightguard-Security)
 availability: Remote
 past experiences: 
   - ["Lead Software Engineer", "Client Application (React)", "Treez, Inc", "Remote", "2022-2023"]
