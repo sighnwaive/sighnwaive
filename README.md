@@ -14,21 +14,23 @@
 
 ```yaml
 name: SighnWaive
-located_in: Louisiana
+located_in: California
 from: United States
-job: Director of Engineering
+job: Head of Engineering
 company: Gravelight Studios (https://github.com/Gravelight-Studios)
 company: Nightguard Security (https://github.com/Nightguard-Security)
-availability: Remote
+availability: Nope, Busy
 past experiences: 
+  - ["Head of Engineering", "Agentic AI coder", "Cline Bot Inc", "San Francisco, CA", "2025-Now"]
+  - ["Chief Technical Officer", "Javascript and C++ Stacks", "Gravelight Studios", "Remote", "2024-Now"]
+  - ["Mentor", "Full Stack Javascript", "Coding Coach", "Remote", "2023-2025"]
   - ["Lead Software Engineer", "Client Application (React)", "Treez, Inc", "Remote", "2022-2023"]
   - ["Lead Software Engineer", "B2B Backend (NodeJS)", "Deluxe Corp.", "Remote", "2021-2022"]
   - ["Senior Software Engineer", "Contract (NodeJS/React)", "Vaco", "Remote", "2020-2021"]
   - ["Senior Software Engineering Manager", "NodeJS/React", "Red Ventures", "Charlotte, NC", "2019-2020"]
   - ["Solutions Architect", "Customer Mobile and WebApp (Java/React)", "Netspend", "Austin, TX", "2015-2019"]
-
-fields_of_interests: ["Mobile Applications", "PWA", "System Design", "Cyber Security"]
-technical_background: ["Large Scale Financial"]
+fields_of_interests: ["Applied AI", "PWA", "System Design", "Cyber Security"]
+technical_background: ["Large Scale Financial", "Applied AI"]
 skills: ["Web3", "React", "Typescript", "NodeJS", "Game Development"]
 to_learn: ["Blockchain", "Cryptography"]
 hobbies: ["Competitive Gaming", "IoT", "Hiking"]
