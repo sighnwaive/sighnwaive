@@ -18,7 +18,7 @@ located_in: California
 from: United States
 job: Head of Engineering
 company: Cline Bot Inc (https://github.com/cline)
-company: Gravelight Studios (https://github.com/Gravelight-Studios)
+company: Gravelight Studios (https://github.com/Gravelight-Studio)
 company: Nightguard Security (https://github.com/Nightguard-Security)
 availability: Nope, Busy
 past experiences: 
